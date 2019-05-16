@@ -1,0 +1,293 @@
+Category,Name,Price,Type
+Pav,Kheema Pav,220,Veg
+Starters,Jalapeno Poppers,153,Non Veg
+Starters,Garlic Bread W Cheese (4 Pcs),105,Non Veg
+Starters,Spaghetti Cheese Ball,134,Non Veg
+Starters,Paneer Tikka,196,Non Veg
+Starters,Rocky Road Paneer,196,Non Veg
+Starters,Dragon Paneer,186,Non Veg
+Starters,Chilli Paneer,186,Non Veg
+Starters,Peri Peri Fries,134,Non Veg
+Starters,Peri Peri Paneer,186,Non Veg
+Starters,Masala Wedges,139,Non Veg
+Starters,Stuffed Fungi,143,Non Veg
+Starters,Cheese Rissole,143,Non Veg
+Starters,Cheesy Mex Fries,143,Non Veg
+Starters,Fiery Potato,143,Non Veg
+Starters,Fiery Baby Corn,143,Non Veg
+Starters,Wedges,110,Non Veg
+Starters,Thai Basil Chilly Mushroom,177,Non Veg
+Starters,Corn Hi Corn,172,Non Veg
+Starters,Fries,100,Non Veg
+Starters,Nachos W Cheese,162,Non Veg
+Starters,Teriyaki Mushroom,153,Non Veg
+Starters,Fried Mozzarella Stix,153,Non Veg
+Starters,Spicy Chicken Finger,229,Veg
+Starters,Peri Peri Chicken,229,Veg
+Starters,Chicken Rocky Road,220,Veg
+Starters,Thai Fried Chicken,220,Veg
+Starters,Chicken & Cheese Poppers,205,Veg
+Starters,French Toast,105,Veg
+Starters,Chicken Wings,186,Veg
+Starters,Peri Peri Fish,243,Veg
+Starters,Pesto Grilled Fish,234,Veg
+Starters,Devils Chicken,229,Veg
+Starters,Fire & Spice Dry,181,Veg
+Starters,Pesto Grilled Chicken,229,Veg
+Starters,Teriyaki Chicken,229,Veg
+Starters,Butter Garlic Prawn,300,Veg
+Starters,Chicken Popcorn,162,Veg
+Starters,Sausages,158,Veg
+Starters,Peri Peri Prawn,300,Veg
+Salad,Greek Salad(Veg),153,Non Veg
+Salad,Pasta Salad(Veg),153,Non Veg
+Salad,Mexican Nachos Grande(Veg),181,Non Veg
+Salad,Ceasar Salad(Veg),153,Non Veg
+Salad,Russian Salad(Veg),134,Non Veg
+Salad,Greek Salad(Non Veg),186,Veg
+Salad,Ceasar Salad(Non Veg),186,Veg
+Salad,Pasta Salad(Non-Veg),186,Veg
+Salad,Russian Salad(Non-Veg),153,Veg
+Salad,Crunchy Chicken Salad,196,Veg
+Salad,Mexican Nachos Grande(Non-Veg),200,Veg
+Egg To Order,Fried Egg 3Pcs,96,Veg
+Egg To Order,Omelette,110,Veg
+Egg To Order,Scrambled Egg,96,Veg
+Egg To Order,Spagelette,124,Veg
+Burger,Veg Burger,129,Non Veg
+Burger,Butter Paneer Burger,148,Non Veg
+Burger,Cheese Burger,139,Non Veg
+Burger,Cottage Cheese Burger,139,Non Veg
+Burger,Mexican Bean Burger,134,Non Veg
+Burger,Soya Burger,134,Non Veg
+Burger,Wedge Mex Burger,143,Non Veg
+Burger,Tandoori Paneer Burger,148,Non Veg
+Burger,Peri Peri Paneer Burger,148,Non Veg
+Burger,Rocky Road Paneer Burger,148,Non Veg
+Burger,All American Veg Burger,191,Non Veg
+Burger,The Hotty Veg Burger,129,Non Veg
+Burger,Crunchy Veg Burger,143,Non Veg
+Burger,Tex Mex Chicken Burger,172,Veg
+Burger,Peri Peri Chicken Burger,172,Veg
+Burger,Tandoori Chicken Burger,158,Veg
+Burger,Crisp Cross Chicken Burger,172,Veg
+Burger,Lamb Burger,162,Veg
+Burger,Fish Fillet Burger,158,Veg
+Burger,The Hotty Chicken Burger,172,Veg
+Burger,Pesto Fried Chicken Burger,158,Veg
+Burger,Pesto Fried Fish Burger,181,Veg
+Burger,Peri Peri Fish Burger,181,Veg
+Burger,Cheese Burst Lamb Burger,215,Veg
+Burger,Chicken Rocky Road Burger,172,Veg
+Burger,Butter Chicken Burger,172,Veg
+Burger,Chicken Steak Burger Pepper,158,Veg
+Burger,Chicken Steak Burger Bbq,158,Veg
+Burger,Chicken Steak Burger Mush,158,Veg
+Burger,Chicken Steak Burger Teriyaki,158,Veg
+Burger,Crumb Chicken Burger,162,Veg
+Burger,The Hotty Prawn Burger,172,Veg
+Burger,The Truffles Rooster,172,Veg
+Burger,Prawn & Slaw Burger,181,Veg
+Burger,All American Chicken Burger,220,Veg
+Burger,All American Lamb Burger,220,Veg
+Burger,Tons Of Fun Lamb,229,Veg
+Burger,Tons Of Fun Chicken,229,Veg
+Burger,Sloppy Joe Lamb Burger,262,Veg
+Burger,Sloppy Joe Chicken Burger,262,Veg
+Hot Dog,Chicken Hot Dog,120,Veg
+Hot Dog,Great Dane,205,Veg
+Submarine,Russian Salad Sub,167,Non Veg
+Submarine,Cottage Cheese Sub,115,Non Veg
+Submarine,Coleslaw Veg Sub,110,Non Veg
+Submarine,Fetta Cheese & Salsa Sub,134,Non Veg
+Submarine,Crispy Lucy Veg Sub(XL),191,Non Veg
+Submarine,Devils Chicken Sub,139,Veg
+Submarine,Chicken Mayo Sub,129,Veg
+Submarine,Crispy Cross Chicken Sub,134,Veg
+Submarine,Chicken Ham Sub,134,Veg
+Submarine,Chicken Salami Sub,134,Veg
+Submarine,Chicken & Slaw Sub,129,Veg
+Submarine,Smoked Chicken Sausage Sub,153,Veg
+Submarine,Kheema Sub,153,Veg
+Submarine,Chicken Coleslaw Sub [XL],210,Veg
+Submarine,Roast Lamb Sub,196,Veg
+Submarine,Schnitzel S/W,224,Veg
+Submarine,Crispy Lucy Chicken Sub(XL),224,Veg
+Sandwiches,Veg Coleslaw S/W,115,Non Veg
+Sandwiches,Cottage Cheese S/W,124,Non Veg
+Sandwiches,Spinach Corn Cheese S/W,124,Non Veg
+Sandwiches,Mushroom Cheese S/W,115,Non Veg
+Sandwiches,Veg Club S/W,143,Non Veg
+Sandwiches,Cheese S/W,96,Non Veg
+Sandwiches,Chicken Crisp S/W,139,Veg
+Sandwiches,Chicken Steak S/W,153,Veg
+Sandwiches,Chicken Cheese S/W,124,Veg
+Sandwiches,Roast Lamb S/W,205,Veg
+Sandwiches,Chicken Salami  Cheese S/W,139,Veg
+Sandwiches,Chicken Ham Cheese S/W,139,Veg
+Sandwiches,Non Veg Club S/W,181,Veg
+Sandwiches,Devil's Chicken S/W,148,Veg
+Sandwiches,Chicken Coleslaw S/W,148,Veg
+Wraps,Tandoori Paneer Wrap,143,Non Veg
+Wraps,Cottage Cheese Wrap,129,Non Veg
+Wraps,Mushroom & Cheese Wrap,129,Non Veg
+Wraps,Peri Peri Paneer Wrap,143,Non Veg
+Wraps,Tex Mex Wrap Veg,129,Non Veg
+Wraps,Kheema Wrap,158,Veg
+Wraps,Tex Mex Wrap Chicken,148,Veg
+Wraps,Peri Peri Chicken Wrap,153,Veg
+Wraps,Egg Wrap,110,Veg
+Wraps,Chicken Wrap,143,Veg
+Maincourse,Cottage Cheese Steak,243,Non Veg
+Maincourse,Veg Paprika,224,Non Veg
+Maincourse,Veg Corn Au Gratin,224,Non Veg
+Maincourse,Sauteed Veggies,181,Non Veg
+Maincourse,Mac & Cheese,200,Non Veg
+Maincourse,Tandoori Paneer Steak,243,Non Veg
+Maincourse,Cottage Cheese Twister,243,Non Veg
+Maincourse,Veg Lasagna,220,Non Veg
+Maincourse,Very Veggies,220,Non Veg
+Maincourse,Veg A-La King,224,Non Veg
+Maincourse,All American Nachos Veg,224,Non Veg
+Maincourse,Fcuk Paneer,243,Non Veg
+Maincourse,Chicken Lasagne,272,Veg
+Maincourse,Chicken Paprika,262,Veg
+Maincourse,Chick Flick,272,Veg
+Maincourse,Chicken Diane,291,Veg
+Maincourse,3 Pepper Chicken Steak,272,Veg
+Maincourse,Classic Stuffed Chicken Steak,315,Veg
+Maincourse,Poulet Champignon,281,Veg
+Maincourse,California Chicken Steak,315,Veg
+Maincourse,Roast Chicken,291,Veg
+Maincourse,Classic Chicken Steak,272,Veg
+Maincourse,Chicken Stroganoff,272,Veg
+Maincourse,Baked Chicken Bavarian,239,Veg
+Maincourse,Chicken Marengo,272,Veg
+Maincourse,Mediterranean Chicken,305,Veg
+Maincourse,Chicken Milanese,305,Veg
+Maincourse,All American Nachos Chicken,239,Veg
+Maincourse,Chicken with Mint & Rosemary,272,Veg
+Maincourse,Hot Pot,272,Veg
+Maincourse,Mexican Chicken With Rice,272,Veg
+Maincourse,One Flew Over The Cuckoos Nest,281,Veg
+Maincourse,Chicken Cafreal With A Thai Twist,281,Veg
+Maincourse,Tandoori Chicken Steak [Bone],272,Veg
+Maincourse,Roast Lamb,358,Veg
+Maincourse,Minced Lamb Steak,291,Veg
+Maincourse,London Mix Grill,343,Veg
+Maincourse,Grilled Norwegian Fish Steak,296,Veg
+Maincourse,Oriental Grilled Fish,277,Veg
+Maincourse,Fish Grand Milan,348,Veg
+Maincourse,Fish N Chips,277,Veg
+Maincourse,Grilled Fish In Lemon Butter Sauce,291,Veg
+Maincourse,Prawn In Lemon Cream Sauce,367,Veg
+Oriental,Thai Green Curry With Rice (Veg),258,Non Veg
+Oriental,Thai Red Curry With Rice (Veg),258,Non Veg
+Oriental,Fire & Spice With Rice(Chicken),272,Veg
+Oriental,Thai Basil With Rice(Chicken),277,Veg
+Oriental,Thai Basil With Rice(Fish),286,Veg
+Oriental,Thai Green Curry With Rice (Chicken),286,Veg
+Oriental,Fire & Spice With Rice(Fish),286,Veg
+Oriental,Thai Red Curry With Rice (Chicken),286,Veg
+Oriental,Thai Green Curry With Rice (Fish),358,Veg
+Oriental,Thai Green Curry With Rice (Prawn),367,Veg
+Oriental,Thai Red Curry With Rice (Prawn),367,Veg
+Oriental,Fire & Spice With Rice(Prawn),367,Veg
+Oriental,Thai Red Curry With Rice (Fish),367,Veg
+Oriental,Thai Basil With Rice(Prawn),367,Veg
+Pasta,Pesto Pasta Veg,186,Non Veg
+Pasta,Creamy Cheese Sauce Pasta Veg,186,Non Veg
+Pasta,Bianca Pasta Veg,186,Non Veg
+Pasta,Sundried Tomato Pasta Veg,224,Non Veg
+Pasta,Olive Blasta Pasta Veg,220,Non Veg
+Pasta,Arrabiata Pasta Veg,186,Non Veg
+Pasta,Pinky Pasta Veg,186,Non Veg
+Pasta,Aglio-Olio Pasta Veg,186,Non Veg
+Pasta,Italian Pasta Alfredo Veg,196,Non Veg
+Pasta,Spaghetti Bolognise Pasta (Lamb),233,Veg
+Pasta,Spaghetti Carbonara Chicken,229,Veg
+Pasta,Sundried Tomato Pasta Non-Veg,258,Veg
+Pasta,Italian Pasta Alfredo Non-Veg,224,Veg
+Pasta,Olive Blasta Pasta Non-Veg,248,Veg
+Pasta,Italian Prawns Pasta,300,Veg
+Pasta,Pinky Pasta Non-Veg,215,Veg
+Pasta,Aglio-Olio Pasta(Non Veg),215,Veg
+Pasta,Creamy Cheese Sauce Pasta Non-Veg,215,Veg
+Pasta,Pesto Pasta Non-Veg,215,Veg
+Pasta,Bianca Pasta Non-Veg,215,Veg
+Pasta,Arrabiata Pasta Non-Veg,215,Veg
+Beverages,Ice Tea (400ML),105,Non Veg
+Beverages,Kiwi Margarita (400ML),124,Non Veg
+Beverages,Iced Latte Shake (400ML),115,Non Veg
+Beverages,Friazo Milano,143,Non Veg
+Beverages,Irish Coffee Shake (400ML),143,Non Veg
+Beverages,Frozen Hazelnut,143,Non Veg
+Beverages,Santa Maria (400ML),143,Non Veg
+Beverages,Friazzo Biscotti,143,Non Veg
+Beverages,Mocha Ice Berg Shake (400ML),143,Non Veg
+Beverages,Oreo Shake (400ML),158,Non Veg
+Beverages,Brownie Point,162,Veg
+Beverages,Ferrero Rocher Shake (400ML),162,Veg
+Beverages,Mojito (400ML),124,Non Veg
+Beverages,Black Currant Granita (400ML),105,Non Veg
+Beverages,Blue Curacao Granita (400ML),105,Non Veg
+Beverages,Lime Granita (400ML),105,Non Veg
+Beverages,Green Apple Granita (400ML),105,Non Veg
+Beverages,Strawberry Granita (400ML),105,Non Veg
+Beverages,Rainbow Granita (400ML),124,Non Veg
+Beverages,Montego,139,Non Veg
+Beverages,Frozen Strawberry (400ML),139,Non Veg
+Beverages,Cupid Valentino,139,Non Veg
+Beverages,Choco Mocha,139,Non Veg
+Beverages,Blueberry Shake (400ML),148,Non Veg
+Beverages,Very Berry Blast (400ML),153,Non Veg
+Beverages,Peanut Butter & Nutella Shake (400ML),153,Non Veg
+Desserts,Choco Lava Cake,77,Non Veg
+Desserts,Cappuccino Walnut Brownie,115,Veg
+Desserts,Mississippi Mud Pie,124,Veg
+Desserts,Chocolate Tart,48,Non Veg
+Desserts,Walnut Fudge Tart,124,Veg
+Desserts,Apple Pie,124,Non Veg
+Desserts,Lemon Tart,48,Veg
+Desserts,Red Velvet Muffin,77,Veg
+Desserts,Marshmallow,43,Veg
+Desserts,Oreo Cookies Fudge,196,Non Veg
+Desserts,Kit Kat Sundae,196,Non Veg
+Desserts,Walnut Fudge Sundae,196,Veg
+Desserts,Red Velvet Sundae,196,Non Veg
+Desserts,Ferrero Rocher Fudge Sundae,196,Veg
+Desserts,Apple Fudge Sundae,196,Non Veg
+Desserts,Brownie Fudge Sundae,196,Veg
+Desserts,Hotch Potch Sundae,196,Veg
+Desserts,Marshmallow Sundae,196,Veg
+Desserts,Almond Fudge Sundae,196,Veg
+Desserts,Irish Cream Cheese Cake,115,Veg
+Desserts,Blueberry Cheese Cake,115,Non Veg
+Desserts,Oreo Cheese Cake,115,Non Veg
+Desserts,Baked Choco Cheese Cake,129,Veg
+Desserts,Lemon Cheese Cake,124,Veg
+Desserts,Chocolate Truffle Cake,110,Veg
+Desserts,Red Velvet,115,Veg
+Desserts,Pineapple Cake,105,Veg
+Desserts,Chocolate Caramel,153,Non Veg
+Desserts,Peach & Cream Cake,143,Veg
+Desserts,Almond And Choco Fudge Ring 1 Pcs,100,Veg
+Desserts,Hotch Potch Cake,115,Veg
+Desserts,Kalhua Fantasy,115,Veg
+Desserts,Bulls Eye Eggless,115,Non Veg
+Desserts,Dutch Truffle 1 Pc Eggless,115,Non Veg
+Desserts,Death By Chocolate Cake,115,Non Veg
+Desserts,Gooey Mud Cake 1Pc,115,Veg
+Desserts,Kit Kat Cake Eggless,115,Non Veg
+Desserts,Ferrero Rocher Pcs,120,Veg
+Desserts,Tiramisu With Jar,124,Veg
+Desserts,Chocolate Mousse Cake,129,Veg
+Desserts,Dark Hazelnut Bomb,129,Veg
+Desserts,White Hazelnut Bomb,129,Veg
+Desserts,Chocolate Kahlua Mousse,143,Veg
+Desserts,Honeybuzz,148,Veg
+Desserts,Orange Peach Merengue,153,Veg
+Desserts,Honey Buzz Fudge,181,Veg
+Full Cakes,Dutch Truffle Cake 1/2 Kg,572,Non Veg
+Full Cakes,Chocolate Truffle [1/2 Kg],477,Veg
+Full Cakes,Ferrero Rocher [1/2 Kg],572,Veg
